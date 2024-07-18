@@ -6,7 +6,7 @@ Instruções para entrega
 - Variáveis
 - Operadores
 - Laços de repetição
-- Estruturas de decisões
+- Estruturas de decisões 
 
 ## Objetivo 
 

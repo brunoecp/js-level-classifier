@@ -1,4 +1,4 @@
-//brunin é super legal
+//brunin é super legal e prestativo
 const readline = require('readline-sync');
 
 let continuar = true;

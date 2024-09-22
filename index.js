@@ -1,3 +1,4 @@
+//brunin é super legal
 const readline = require('readline-sync');
 
 let continuar = true;
